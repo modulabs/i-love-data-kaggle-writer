@@ -1,4 +1,4 @@
-# git-test
-# i-love-data-kaggle-write-
-# i-love-data-kaggle-write-
-# i-love-data-kaggle-write-
+# i love data lab 캐글 필사 저장소.
+---
+관리자 : 우성우, 전진환
+참여자 : 이욱, 이상기, 
